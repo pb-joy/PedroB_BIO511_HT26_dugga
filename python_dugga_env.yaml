@@ -1,0 +1,13 @@
+name: dugga_python
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pandas
+  - matplotlib
+  - seaborn
+  - plotly
+  - plotnine
+  - pygame
+  - pip
